@@ -2,8 +2,6 @@
 
 A VSCode plugin, right click here, short cut here, upload here!
 
-![upload-here-3.gif](https://kaola-haitao.oss.kaolacdn.com/e423f20c-1881-44ad-90c6-263098979e88_1425x818.gif)
-
 ## Features
 
 1. 使用快捷键（默认 shift + alt + p）或者鼠标右键，上传本地图片然后将上传结果插入到光标位置。

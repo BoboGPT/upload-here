@@ -3,11 +3,11 @@
 	"displayName": "upload here",
 	"icon": "assets/icon.png",
 	"description": "right click here, short cut here, upload here",
-	"version": "2.1.1",
+	"version": "2.1.2",
 	"engines": {
 		"vscode": "^1.45.0"
 	},
-	"publisher": "sweetzone",
+	"publisher": "Bobo",
 	"categories": [
 		"Other"
 	],
