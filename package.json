@@ -20,7 +20,7 @@
 	"activationEvents": [
 		"onCommand:upload-here.UploadHere"
 	],
-	"repository": "https://github.com/zjzhome/upload-here",
+	"repository": "https://github.com/BoboGPT/upload-here",
 	"main": "./extension.js",
 	"contributes": {
 		"commands": [
